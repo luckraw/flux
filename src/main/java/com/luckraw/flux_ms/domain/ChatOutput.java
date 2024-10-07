@@ -1,4 +1,4 @@
 package com.luckraw.flux_ms.domain;
 
-public record ChatOutput(String message) {
+public record ChatOutput(String content) {
 }
